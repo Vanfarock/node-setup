@@ -20,5 +20,8 @@
     "skipLibCheck": true,
     "baseUrl": ".",
     "paths": {} // Alias for imports
-  }  
+  },
+  "include": [
+    "src/**/*"
+  ]
 }
